@@ -1,6 +1,6 @@
 module Main where
 
-import Graph
+import Server
 
 main :: IO ()
 main = run
